@@ -9,4 +9,4 @@ This board is designed to gather altitude data and control rocket's parachute de
 ## GPS Board
 This board is designed to gather GPS data during flight, process it and send it to the ground station via the RF module attached to it. It was designed and programmed by Yavuz Selim Tozlu. 
 
-Shout out goes to our [sponsor](megasistem.net) who was kind enough to manufacture the boards. 
+Shout out goes to our [sponsor](http://www.megasistem.net) who was kind enough to manufacture the boards. 
