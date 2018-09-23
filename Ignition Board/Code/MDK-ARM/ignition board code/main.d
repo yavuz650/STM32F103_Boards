@@ -1,6 +1,7 @@
 ignition board code\main.o: ../Src/main.c
 ignition board code\main.o: ../Inc/main.h
 ignition board code\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+ignition board code\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ignition board code\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
 ignition board code\main.o: ../Inc/stm32f1xx_hal_conf.h
 ignition board code\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
